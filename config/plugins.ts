@@ -5,7 +5,7 @@ export default () => ({
     config: {
       playgroundAlways: false,
       defaultLimit: 1,
-      maxLimit: 20,
+      maxLimit: 10000,
       apolloServer: {
         tracing: true,
       },
